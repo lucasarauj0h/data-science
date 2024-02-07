@@ -1,0 +1,17 @@
+Este projeto tem como objetivo desenvolver uma aplicação que possa analisar imagens, utilizando 
+bibliotecas como OpenCV para o processamento de imagens e o Pytesseract AI para identificação e 
+extração de texto presente nessas imagens.
+
+Exemplos de uso do projeto:
+
+Processamento de Documentos: Aplicação em processamento de documentos digitalizados para extrair 
+informações textuais deles.
+
+Este projeto oferece uma solução para a identificação e extração de texto de imagens, permitindo 
+sua aplicação em diversas áreas, desde digitalização de documentos até melhoria da acessibilidade 
+para pessoas com deficiência visual.
+
+
+
+
+

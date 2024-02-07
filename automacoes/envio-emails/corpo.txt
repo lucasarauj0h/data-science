@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucas Araujo - Portfólio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        .highlight {
+            color: #007bff;
+            font-weight: bold;
+        }
+
+        .links {
+            margin-top: 20px;
+        }
+
+        .links a {
+            display: block;
+            margin-bottom: 10px;
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        .experience {
+            margin-bottom: 20px;
+        }
+
+        .skills {
+            margin-top: 20px;
+        }
+
+        .skills ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .skills li {
+            display: inline-block;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            background-color: #007bff;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lucas Araujo - CV</h1>
+    </header>
+
+    <section>
+        <h2>Sobre Mim</h2>
+        <p>Estudante e pesquisador na UFABC, busco integrar minhas duas paixões: matemática e tecnologia. Minha jornada é marcada pelo constante aprimoramento em Data Science, buscando aplicar esses conhecimentos em desafios e projetos inovadores.</p>
+
+        <h2>Sobre Escolaridade</h2>
+        <p>Universidade Federal do ABC<br>Ciência da Computação | 2022 - 2026</p>
+        <p>Universidade Federal do ABC<br>Bacharelado Interdisciplinar em Ciência e Tecnologia | 2022 - 2025</p>
+
+        <div class="links">
+            <a href="https://github.com/lucasarauj0h" target="_blank">GitHub</a>
+            <a href="https://sites.google.com/aluno.ufabc.edu.br/portfolio/" target="_blank">Portfólio de BI</a>
+            <a href="https://www.linkedin.com/in/lucasarauj0h" target="_blank">LinkedIn</a>
+        </div>
+
+        <h2>Experiências</h2>
+        <div class="experience">
+            <h3>Pesquisador (Iniciação Científica)</h3>
+            <p>Universidade Federal do ABC | 2022 - Agora</p>
+            <p>Pesquisa relacionada a análise de dados, com título “Análise do perfil socioeconômico e cultural dos ingressantes da UFABC: Há democracia na universidade do século XXI?”. Desenvolvi habilidades analíticas com ferramentas como Excel, Python e Power BI.</p>
+        </div>
+
+        <div class="experience">
+            <h3>Professor Voluntário</h3>
+            <p>Universidade Federal do ABC (EPUFABC) | 2022 - 2023</p>
+            <p>Professor de matemática no cursinho popular EPUFABC, desenvolvendo habilidades como organização, boa comunicação oral e escrita, trabalho em equipe e liderança.</p>
+        </div>
+
+        <div class="experience">
+            <h3>Mecânico e Vendedor</h3>
+            <p>Central de Pneus | 2020 - 2021</p>
+            <p>Responsável pela limpeza e organização do ambiente, reparo de motocicletas e posteriormente vendedor. Desenvolvi habilidades como trabalho em equipe, trabalho sob pressão e boa comunicação.</p>
+        </div>
+
+        <h2>Habilidades</h2>
+        <div class="skills">
+            <ul>
+                <li>Python</li>
+                <li>SQL</li>
+                <li>Power BI</li>
+                <li>Excel</li>
+                <li>Análise de dados - BI</li>
+            </ul>
+        </div>
+    </section>
+</body>
+</html>

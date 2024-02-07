@@ -1,0 +1,10 @@
+# Ideias para aprimorar o projeto.
+
+- Segmentar as noticias para filtra-lá em algum tipo (mercado financeiro, ex.)
+- Captar sites de portal de noticias do mercado financeiro.
+- Criar um resumo da notícia quando solicitada, atravez da biblioteca Goose (Estudado em PLN_IA) -> FEITO
+
+1 - Exportação para uma planilha csv (aprendizado)
+2 - Envio para um e-mail (aprendizado)
+3 - Serviço web 
+4 - Algoritmo de envio para whatsapp/telegram

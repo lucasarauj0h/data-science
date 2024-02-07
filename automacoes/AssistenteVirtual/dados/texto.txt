@@ -1,0 +1,2 @@
+Olá mundo! Bem vindo ao assistente virtual
+Estamos na trilha de automação com Python.
