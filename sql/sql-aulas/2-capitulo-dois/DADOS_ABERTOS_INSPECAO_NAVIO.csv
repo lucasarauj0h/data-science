@@ -1,0 +1,464 @@
+NOME_NAVIO;MES_ANO_ABERTURA;CLASSIFICACAO_RISCO;INDICE_CONFORMIDADE;PONTUACAO_RISCO;TEMPORADA
+HORIZON (PACIFIC DRE;12/2010;C;90,76;310;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+SPLENDOUR OF THE SEA;12/2012;C;91,71;415;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+AZAMARA JOURNEY;02/2012;A;97,98;80;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+BOUDICCA;01/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Janeiro 2013
+NATIONAL GEOGRAPHIC ;10/2014;A;97,43;125;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Outubro 2014
+COSTA PACIFICA;11/2019;A;98,20;90;Programa de Inspecao Navios de Cruzeiro 2019/2020 - Novembro 2019
+SEVEN SEAS MARINER;03/2016;C;92,70;365;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Marco 2016 
+SPLENDOUR OF THE SEA;03/2013;A;99,40;30;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+SOVEREIGN (SOBERANO);10/2015;A;98,65;65;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+SOVEREIGN (SOBERANO);12/2016;A;97,60;120;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Dezembro 2016
+COSTA LUMINOSA;01/2017;A;79,17;125;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Janeiro 2017
+REGATTA;02/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Fevereiro 2017
+OCEAN DREAM;01/2014;D;85,56;715;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Janeiro 2014
+SEABOURN ODYSSEY;02/2011;D;77,05;770;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Fevereiro 2011
+RHAPSODY OF THE SEAS;01/2016;A;98,20;54;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+MSC PREZIOSA;01/2015;A;99,19;40;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Janeiro 2015
+SEABOURN QUEST;11/2016;A;98,85;55;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Novembro 2016
+VOYAGER;03/2013;D;88,01;600;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+ORIENT QUEEN II;12/2013;D;63,89;1065;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+ZAANDAM;11/2018;B;95,76;210;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Novembro 2018
+VIKING SUN;11/2019;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2019/2020 - Novembro 2019
+MAASDAM;02/2015;A;99,10;45;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Fevereiro 2015
+QUEEN VICTORIA;02/2017;B;95,90;205;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Fevereiro 2017
+AIDA CARA;11/2012;B;94,56;260;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Novembro 2012
+VISION OF THE SEAS;03/2011;C;89,27;360;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+DELPHIN;12/2013;B;94,94;225;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+AMERA (PRINSENDAM);12/2012;A;98,82;60;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+SOVEREIGN (SOBERANO);03/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+COSTA FAVOLOSA;12/2013;A;99,09;45;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+ZENITH;12/2012;B;94,88;255;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+CRYSTAL SYMPHONY;02/2011;D;81,67;615;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Fevereiro 2011
+NORWEGIAN SUN;04/2017;B;96,56;170;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Abril 2017
+MSC MAGNIFICA;11/2012;B;95,95;205;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Novembro 2012
+MSC ORCHESTRA;11/2010;D;85,39;490;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Novembro 2010
+COSTA LUMINOSA;01/2016;B;96,80;160;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+AIDA VITA;03/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+SAGA PEARL II;03/2016;C;92,20;390;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Marco 2016 
+GRAND CELEBRATION;11/2010;D;80,48;655;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Novembro 2010
+BLEU DE FRANCE;11/2010;D;75,18;705;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Novembro 2010
+ASUKA II;05/2012;D;75,00;726;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Maio 2012
+ARCADIA;01/2016;B;94,00;290;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+AIDA VITA;02/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+COSTA FAVOLOSA;12/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Dezembro 2014
+SILVER WHISPER;01/2020;A;99,60;20;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Janeiro 2020
+EXPLORER;11/2013;A;99,17;40;Programa de Inspecao Navios de Cruzeiro 2013/2014 - novembro 2013
+INSIGNIA;11/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Novembro 2016
+COSTA FAVOLOSA;01/2013;A;99,41;30;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Janeiro 2013
+SILVER WHISPER;11/2010;D;84,96;500;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Novembro 2010
+SILVER CLOUD;11/2011;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+SEABOURN QUEST;05/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Novembro 2015
+SPLENDOUR OF THE SEA;12/2010;C;87,03;435;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+BLEU DE FRANCE;04/2011;C;89,27;360;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Abril 2011
+CLUB MED 2;01/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Janeiro 2014
+MSC POESIA;11/2018;B;95,70;215;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Novembro 2018
+SEVEN SEAS MARINER;04/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Abril 2015
+ARTANIA;04/2019;C;93,39;325;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Marco 2019
+COSTA FORTUNA;03/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+SPLENDOUR OF THE SEA;01/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Dezembro 2014
+AURORA;01/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Janeiro 2015
+MSC DIVINA;06/2014;A;97,58;120;Programa de Inspecao Navios de Cruzeiro 2014 - Copa
+COSTA FAVOLOSA;12/2018;B;96,90;155;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Dezembro 2018
+VIKING SKY;02/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Fevereiro 2018
+AIDA CARA;03/2014;A;97,07;145;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Marco 2014
+ADONIA;02/2012;A;98,89;44;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+GRAND MISTRAL;01/2013;C;92,10;400;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Janeiro 2013
+COSTA FORTUNA;12/2011;B;94,60;265;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+AMERA (PRINSENDAM);12/2015;B;96,00;200;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+SOVEREIGN (SOBERANO);11/2013;B;95,36;230;Programa de Inspecao Navios de Cruzeiro 2013/2014 - novembro 2013
+HAMBURG;12/2018;B;94,01;290;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Dezembro 2018
+ALBATROS;01/2011;D;77,94;740;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+WORLD EXPLORER;10/2019;A;97,40;125;Programa de Inspecao Navios de Cruzeiro 2019/2020 - Outubro 2019
+EXPLORER;11/2014;A;98,11;90;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Novembro 2014
+MAASDAM;02/2013;D;84,31;790;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+COSTA VITORIA;02/2011;A;99,70;10;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Fevereiro 2011
+LE LYRIAL;03/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Marco 2016 
+OCEAN DREAM;02/2019;B;95,82;205;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Fevereiro 2019
+GRAND CELEBRATION;02/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+PACIFIC PRINCESS;01/2013;A;98,81;60;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Janeiro 2013
+BLEU DE FRANCE;05/2011;D;86,06;465;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Maio 2011
+VIKING SEA;12/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Dezembro 2017
+VISTAMAR;01/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+COSTA FAVOLOSA;12/2012;C;88,46;342;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+EUROPA 2;02/2015;A;99,39;30;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Fevereiro 2015
+LAUSTRAL;03/2016;C;92,24;375;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Marco 2016 
+GRAND CELEBRATION;11/2012;A;98,81;60;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Novembro 2012
+SEA EXPLORER;03/2014;D;75,18;1230;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Marco 2014
+AMERA (PRINSENDAM);03/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Fevereiro 2017
+MSC ORCHESTRA;03/2013;A;98,71;65;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+MSC LIRICA;02/2011;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Fevereiro 2011
+VEENDAM;02/2017;A;98,00;100;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Fevereiro 2017
+SILVER CLOUD;12/2013;D;87,57;585;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+BALMORAL;02/2016;B;95,86;205;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+MSC OPERA;12/2010;A;96,13;130;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+COSTA FAVOLOSA;03/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Marco 2014
+MSC SEAVIEW;12/2019;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+REGATTA;11/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - novembro 2013
+ALBATROS;10/2011;D;84,82;755;Programa de Inspecao Navios de Cruzeiro 2011/2012  - Outubro 2011
+SEA PRINCESS;02/2017;D;87,18;635;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Fevereiro 2017
+AIDA CARA;12/2010;C;89,27;360;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Novembro 2010
+BOUDICCA;01/2017;A;97,00;145;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Janeiro 2017
+CROWN PRINCESS;03/2017;C;92,10;395;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Marco 2017
+SILVER WHISPER;01/2012;A;98,41;80;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+ZENITH;03/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Marco 2014
+OCEAN DREAM;08/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014 - Copa
+SEA DREAM II;02/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+GRAND HOLIDAY;11/2012;B;96,05;195;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Novembro 2012
+VISION OF THE SEAS;04/2012;A;98,22;90;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Abril 2012
+HANSEATIC;04/2011;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Abril 2011
+COSTA VITORIA;02/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+SILVER SHADOW;02/2015;B;96,10;190;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Fevereiro 2015
+INSIGNIA;03/2012;D;86,77;670;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+SILVER CLOUD;12/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+CRYSTAL SERENITY;03/2013;D;83,10;830;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+CRYSTAL SERENITY;11/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Novembro 2017
+INSIGNIA;03/2011;A;96,72;110;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+CELEBRITY INFINITY;02/2017;A;99,79;10;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Fevereiro 2017
+BOUDICCA;02/2011;A;98,21;60;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Fevereiro 2011
+SOVEREIGN (SOBERANO);03/2014;A;99,06;45;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Marco 2014
+AMERA (PRINSENDAM);12/2011;A;98,17;90;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+VIKING JUPITER;11/2019;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2019/2020 - Novembro 2019
+AMERA (PRINSENDAM);11/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Novembro 2018
+EMPRESS (IMPERATRIZ);03/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+BRAEMAR;02/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Fevereiro 2017
+MSC MUSICA;12/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+MSC FANTASIA;02/2013;A;99,11;45;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+MSC SINFONIA;01/2020;B;95,80;210;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Janeiro 2020
+SILVER WHISPER;12/2015;B;96,48;170;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+CELEBRITY ECLIPSE;02/2019;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Dezembro 2018
+QUEEN VICTORIA;02/2020;B;96,30;185;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Fevereiro 2020
+CRYSTAL SERENITY;04/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Abril 2015
+ZAANDAM;12/2013;A;97,88;63;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+MSC MUSICA;12/2011;A;99,61;20;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+AMERA (PRINSENDAM);02/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Fevereiro 2018
+MARCO POLO;01/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Janeiro 2015
+MARCO POLO;01/2013;A;97,04;150;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Janeiro 2013
+VEENDAM;12/2012;A;97,33;135;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+AIDA CARA;02/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+SOVEREIGN (SOBERANO);03/2013;B;95,72;180;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+HAMBURG;12/2019;A;98,65;65;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+PACIFIC PRINCESS;01/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Janeiro 2014
+MSC ARMONIA;04/2012;A;99,41;30;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Abril 2012
+COSTA FASCINOSA;12/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+AZAMARA PURSUIT;03/2019;A;98,60;70;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Marco 2019
+GRAND CELEBRATION;02/2012;C;92,20;395;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+MSC POESIA;12/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Dezembro 2014
+MARINA;12/2012;B;90,13;285;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+PACIFIC PRINCESS;01/2012;A;98,40;80;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+MSC MUSICA;02/2013;A;99,59;20;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+GRAND MISTRAL;11/2012;D;87,96;610;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Novembro 2012
+COSTA SERENA;03/2013;A;98,61;70;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+MSC ORCHESTRA;12/2012;B;95,85;210;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+MSC MAGNIFICA;12/2015;A;97,36;130;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+SOVEREIGN (SOBERANO);01/2013;A;98,20;90;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Janeiro 2013
+SIRENA;02/2019;A;99,39;18;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Fevereiro 2019
+BLACK WATCH;01/2014;C;91,84;400;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Janeiro 2014
+GOLDEN PRINCESS;01/2014;C;91,08;440;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Janeiro 2014
+COSTA FASCINOSA;12/2012;A;96,74;96;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+ZENITH;02/2013;A;98,10;95;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+SPLENDOUR OF THE SEA;03/2014;B;94,65;265;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Marco 2014
+ARCADIA;01/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Janeiro 2013
+CRYSTAL SYMPHONY;11/2018;A;96,97;145;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Novembro 2018
+SPLENDOUR OF THE SEA;12/2013;A;97,47;125;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+COSTA FORTUNA;03/2011;D;77,35;760;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+CRYSTAL SERENITY;03/2017;B;96,10;195;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Marco 2017
+MSC PREZIOSA;12/2016;A;98,80;60;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Dezembro 2016
+VEENDAM;02/2019;A;97,20;140;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Fevereiro 2019
+CRYSTAL SYMPHONY;01/2016;B;95,10;245;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+MSC SPLENDIDA;12/2015;A;99,10;45;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+INSIGNIA;12/2019;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+SEVEN SEAS EXPLORER;01/2019;B;94,80;260;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Janeiro 2019
+MARINA;12/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+ADONIA;12/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Novembro 2017
+SEVEN SEAS NAVIGATOR;12/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Dezembro 2018
+MSC OPERA;03/2011;B;93,29;225;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+AIDA CARA;11/2011;A;99,38;30;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+GRAND HOLIDAY;12/2010;D;82,83;565;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+SILVER SPIRIT;02/2012;B;93,88;248;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+BRAEMAR;02/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Fevereiro 2016
+SEABOURN QUEST;11/2014;B;96,70;165;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Novembro 2014
+ZENITH;12/2011;C;91,81;415;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+HANSEATIC;04/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Abril 2015
+ROYAL PRINCESS;02/2019;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Fevereiro 2019
+COSTA FASCINOSA;03/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Marco 2014
+AMERA (PRINSENDAM);03/2020;B;94,30;285;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Marco 2020
+CRYSTAL SYMPHONY;12/2013;B;95,71;190;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+EMPRESS (IMPERATRIZ);11/2014;B;96,90;155;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Novembro 2014
+AMADEA;11/2012;B;92,40;231;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Outubro 2012
+ALBATROS;01/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Janeiro 2018
+MSC ORCHESTRA;04/2011;A;96,57;105;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+SOVEREIGN (SOBERANO);11/2014;A;97,78;110;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Novembro 2014
+REGATTA;12/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Novembro 2015
+GRAND HOLIDAY;03/2011;A;99,11;30;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+ZENITH;12/2010;D;80,42;645;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+COSTA FAVOLOSA;03/2013;A;98,31;85;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+VIKING SUN;01/2019;B;95,30;235;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Janeiro 2019
+ARTANIA;01/2012;A;98,42;48;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+MSC ARMONIA;10/2010;B;91,36;290;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Outubro 2010
+AUSTRAL;04/2014;D;84,56;765;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Marco 2014
+OCEAN DREAM;01/2012;A;99,19;32;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+MSC SEAVIEW;12/2018;B;94,60;270;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Dezembro 2018
+MSC OPERA;03/2012;A;97,41;125;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+MSC MUSICA;11/2010;A;98,66;45;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Novembro 2010
+ZENITH;03/2011;A;97,02;100;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+EMPRESS (IMPERATRIZ);12/2010;B;93,53;215;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+SEVEN SEAS MARINER;11/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Novembro 2017
+BRAEMAR;01/2019;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Janeiro 2019
+COSTA PACIFICA;12/2016;A;99,00;50;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Dezembro 2016
+MSC POESIA;11/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - novembro 2013
+STAR PRINCESS;01/2012;D;77,99;1115;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+HAMBURG;11/2011;D;86,36;532;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+SILVER SHADOW;03/2020;A;98,45;75;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Marco 2020
+BOUDICCA;04/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Abril 2014
+MAGELLAN;02/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+GRAND PRINCESS;02/2013;C;87,85;360;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+MSC PREZIOSA;03/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Fevereiro 2014
+COSTA NEOROMANTICA;10/2013;A;97,48;125;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Outubro 2013
+SEVEN SEAS NAVIGATOR;12/2015;B;95,79;205;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+GRAND HOLIDAY;02/2013;B;96,62;170;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+SILVER WHISPER;11/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Novembro 2017
+AZAMARA PURSUIT;12/2019;B;96,00;200;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+AURORA;01/2011;C;86,95;430;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Janeiro 2011
+AMERA (PRINSENDAM);02/2012;A;98,41;75;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+MSC FANTASIA;11/2019;B;94,60;270;Programa de Inspecao Navios de Cruzeiro 2019/2020 - Novembro 2019
+OCEAN PRINCESS;01/2016;A;98,97;50;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+COSTA FASCINOSA;12/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+SILVER SPIRIT;01/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Janeiro 2014
+GRAND HOLIDAY;02/2012;B;96,64;170;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+THE WORLD;11/2010;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Novembro 2010
+COSTA LUMINOSA;01/2019;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Janeiro 2019
+FRAM;03/2017;A;98,94;27;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Marco 2017
+OCEAN DREAM;03/2012;B;95,25;188;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+MSC LIRICA;11/2010;B;93,12;225;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Novembro 2010
+COSTA PACIFICA;12/2011;C;92,10;320;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+MSC ARMONIA;11/2011;D;84,50;745;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+MSC ARMONIA;11/2015;D;90,56;470;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Novembro 2015
+MSC POESIA;10/2015;B;95,90;205;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+ARTANIA;01/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Janeiro 2015
+SILVER CLOUD;02/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Fevereiro 2015
+BALMORAL;02/2018;D;84,80;760;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Fevereiro 2018
+MARCO POLO;01/2019;B;96,80;160;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Janeiro 2019
+SOVEREIGN (SOBERANO);02/2011;C;89,27;360;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Fevereiro 2011
+COSTA FAVOLOSA;12/2017;A;97,60;120;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Dezembro 2017
+AMERA (PRINSENDAM);01/2011;D;81,90;600;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Janeiro 2011
+QUEEN VICTORIA;01/2014;C;91,06;430;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Janeiro 2014
+COSTA FORTUNA;12/2010;C;89,58;325;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+SOVEREIGN (SOBERANO);12/2012;D;78,48;1035;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+GRAND CELEBRATION;11/2011;C;91,41;435;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+SEABOURN QUEST;11/2017;A;97,40;130;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Novembro 2017
+SEVEN SEAS NAVIGATOR;12/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+COSTA DELIZIOSA;01/2015;A;99,60;20;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Janeiro 2015
+SILVER WHISPER;12/2014;B;96,66;160;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Dezembro 2014
+EMPRESS (IMPERATRIZ);11/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - novembro 2013
+MSC ARMONIA;02/2012;C;93,09;350;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+AZAMARA JOURNEY;02/2015;A;98,80;60;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Fevereiro 2015
+AZAMARA QUEST;12/2012;D;78,51;639;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+MIDNATSOL;10/2016;D;70,44;831;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Outubro 2016
+SAGA RUBY;03/2013;A;75,51;60;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+MSC MUSICA;12/2016;A;97,00;150;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Dezembro 2016
+ZENITH;01/2013;B;95,36;235;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Janeiro 2013
+SILVER MUSE;12/2017;A;98,96;50;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Dezembro 2017
+ZENITH;12/2013;B;94,75;260;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+SEA ADVENTURER;03/2015;A;97,14;125;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Marco 2015
+MONARCH;06/2014;B;92,84;213;Programa de Inspecao Navios de Cruzeiro 2014 - Copa
+MARINER OF THE SEAS;02/2011;C;89,27;360;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Fevereiro 2011
+ADONIA;01/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Janeiro 2013
+MSC MAGNIFICA;01/2020;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Janeiro 2020
+QUEEN VICTORIA;01/2018;A;98,40;80;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Janeiro 2018
+AURORA;01/2018;A;97,90;105;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Janeiro 2018
+SOVEREIGN (SOBERANO);12/2011;C;92,48;375;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+SPLENDOUR OF THE SEA;03/2011;B;94,34;190;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+SOVEREIGN (SOBERANO);12/2018;C;92,80;360;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Dezembro 2018
+AIDA CARA;10/2017;B;94,84;255;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Novembro 2017
+ZAANDAM;11/2019;C;92,10;395;Programa de Inspecao Navios de Cruzeiro 2019/2020 - Novembro 2019
+CELEBRITY INFINITY;02/2016;C;92,63;365;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Fevereiro 2016
+GRAND CELEBRATION;02/2014;B;95,11;230;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Fevereiro 2014
+MSC POESIA;11/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Novembro 2017
+PACIFIC PRINCESS;01/2011;C;88,87;370;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Janeiro 2011
+VEENDAM;03/2011;C;87,11;375;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+SPLENDOUR OF THE SEA;03/2012;C;92,89;360;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+BALMORAL;01/2020;B;96,57;170;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Janeiro 2020
+STAR PRINCESS;12/2010;C;88,54;380;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+CELEBRITY INFINITY;02/2018;B;96,60;170;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Fevereiro 2018
+OCEAN DREAM;01/2017;B;95,90;205;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Janeiro 2017
+NATIONAL GEOGRAPHIC ;10/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Outubro 2013
+SEVEN SEAS MARINER;03/2017;A;99,70;15;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Marco 2017
+MSC ORCHESTRA;11/2011;B;93,62;300;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+COSTA FORTUNA;03/2013;B;94,24;290;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+MSC MUSICA;03/2012;D;84,11;805;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+MSC MUSICA;11/2017;A;99,50;25;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Novembro 2017
+SEVEN SEAS MARINER;11/2012;B;94,91;250;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Novembro 2012
+AZAMARA QUEST;02/2013;C;91,06;450;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+SEABOURN QUEST;01/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+SEVEN SEAS NAVIGATOR;12/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+EMPRESS (IMPERATRIZ);12/2012;A;99,40;30;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+PACIFIC PRINCESS;04/2019;A;97,58;120;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Abril 2019
+WORLD ODYSSEY;11/2019;A;98,20;54;Programa de Inspecao Navios de Cruzeiro 2019/2020 - Novembro 2019
+EXPLORER;02/2011;A;98,18;36;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Janeiro 2011
+AIDA AURA;11/2019;A;98,40;80;Programa de Inspecao Navios de Cruzeiro 2019/2020 - Novembro 2019
+MSC PREZIOSA;02/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Fevereiro 2018
+THE WORLD;02/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Fevereiro 2016
+BLACK WATCH;01/2011;D;83,53;545;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Janeiro 2011
+REGATTA;03/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Marco 2015
+ORIANA;02/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Fevereiro 2017
+CROWN PRINCESS;02/2014;B;95,01;245;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Fevereiro 2014
+EMPRESS (IMPERATRIZ);03/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+SEVEN SEAS MARINER;03/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+VOLENDAM;11/2019;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+COSTA VITORIA;12/2010;D;84,50;520;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+SOVEREIGN (SOBERANO);12/2017;B;94,40;280;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Dezembro 2017
+AMADEA;02/2017;C;91,52;430;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Fevereiro 2017
+OCEAN DREAM;10/2011;D;74,55;964;Programa de Inspecao Navios de Cruzeiro 2011/2012  - Outubro 2011
+SEVEN SEAS MARINER;02/2012;B;95,49;225;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+SEABOURN QUEST;11/2013;A;96,97;150;Programa de Inspecao Navios de Cruzeiro 2013/2014 - novembro 2013
+SOVEREIGN (SOBERANO);12/2010;A;96,42;120;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+MSC ORCHESTRA;03/2012;B;95,16;245;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+SEVEN SEAS MARINER;12/2019;A;99,90;5;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+COSTA FASCINOSA;01/2017;A;99,60;20;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Dezembro 2016
+BREMEN;03/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Marco 2015
+AIDA CARA;11/2013;C;93,52;310;Programa de Inspecao Navios de Cruzeiro 2013/2014 - novembro 2013
+AMSTERDAM;01/2020;A;97,90;105;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Janeiro 2020
+HANSEATIC;11/2015;A;96,93;145;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Novembro 2015
+MSC MAGNIFICA;12/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Dezembro 2014
+INSIGNIA;01/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+COSTA FORTUNA;12/2012;B;95,87;205;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+SPLENDOUR OF THE SEA;12/2011;D;90,29;485;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+OCEAN DREAM;11/2011;B;93,92;244;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+INSIGNIA;01/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Janeiro 2018
+QUEEN MARY II;02/2016;B;92,47;225;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Fevereiro 2016
+BLACK WATCH;01/2015;A;99,10;45;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Janeiro 2015
+MSC ORCHESTRA;11/2018;B;96,30;185;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Novembro 2018
+AMADEA;01/2016;B;95,08;240;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+HAMBURG;01/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Janeiro 2015
+WORLD ODYSSEY;11/2015;A;95,16;138;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Novembro 2015
+GOLDEN PRINCESS;01/2015;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Janeiro 2015
+SIRENA;10/2017;A;96,74;93;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Outubro 2017
+MAGELLAN;01/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Janeiro 2018
+REGATTA;11/2011;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+ZENITH;02/2012;A;98,22;90;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+AIDA VITA;12/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Novembro 2012
+SEABOURN SOJOURN;01/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Janeiro 2018
+MSC POESIA;02/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Fevereiro 2014
+ASTORIA;09/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 - Setembro 2017
+MARINA;11/2014;A;98,36;80;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Novembro 2014
+AMSTERDAM;01/2012;A;98,81;48;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+GRAND CELEBRATION;03/2011;D;85,84;475;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+MSC LIRICA;11/2014;A;98,40;80;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Novembro 2014
+BREMEN;04/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Abril 2016 
+CARNIVAL SPLENDOR;03/2013;A;98,70;65;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+ZENITH;12/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Dezembro 2014
+HAMBURG;01/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Janeiro 2018
+BALMORAL;03/2012;C;89,93;408;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+ZAANDAM;11/2017;B;95,89;200;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Novembro 2017
+SEABOURN QUEST;03/2019;B;96,30;185;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Marco 2019
+SIRENA;11/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Novembro 2016
+LE LYRIAL;10/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Outubro 2018
+MSC MAGNIFICA;12/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Dezembro 2017
+SILVER SPIRIT;12/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Novembro 2016
+AIDA VITA;02/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+LE LEVANT;02/2011;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+ASUKA II;02/2016;A;97,30;135;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Fevereiro 2016
+MSC PREZIOSA;12/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+SEA ADVENTURER;04/2012;B;93,98;244;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+HAMBURG;12/2016;C;92,80;360;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Dezembro 2016
+BREMEN;04/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Abril 2012
+MSC MAGNIFICA;12/2013;B;96,17;190;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+SEABOURN SOJOURN;03/2013;A;99,39;30;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+COSTA FASCINOSA;12/2019;B;94,90;255;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+SILVER SPIRIT;02/2016;B;94,50;275;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+BREMEN;05/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - maio 2014
+LAUSTRAL;03/2019;D;88,50;560;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Marco 2019
+COSTA PACIFICA;03/2012;B;96,05;160;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+COSTA PACIFICA;12/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Dezembro 2014
+ADONIA;03/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Novembro 2015
+MSC LIRICA;12/2015;B;95,30;235;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Dezembro 2015
+MSC POESIA;12/2019;A;98,39;80;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+AMADEA;01/2020;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Janeiro 2020
+EXPLORER;01/2012;A;98,17;54;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+MSC FANTASIA;12/2012;A;98,62;42;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+MARCO POLO;12/2010;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Janeiro 2011
+AIDA CARA;01/2011;D;79,43;690;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Janeiro 2011
+NATIONAL GEOGRAPHIC ;04/2016;A;98,40;80;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Marco 2016 
+MSC ARMONIA;01/2011;B;91,36;290;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Janeiro 2011
+MARINA;12/2013;A;97,48;125;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+VEENDAM;11/2011;D;78,32;750;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+MSC PREZIOSA;11/2017;D;88,70;565;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Novembro 2017
+SEVEN SEAS NAVIGATOR;06/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Junho 2017
+BREMEN;04/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Abril 2018
+COSTA MAGICA;12/2011;B;93,24;268;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+GRAND MISTRAL;10/2011;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012  - Outubro 2011
+AURORA;01/2019;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2018/2019 - Janeiro 2019
+GRAND MISTRAL;11/2010;B;91,45;285;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Novembro 2010
+ALBATROS;01/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Janeiro 2014
+OCEAN DREAM;02/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Fevereiro 2016
+GRAND CELEBRATION;11/2013;D;88,60;565;Programa de Inspecao Navios de Cruzeiro 2013/2014 - novembro 2013
+DISCOVERY;01/2011;B;94,87;170;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Janeiro 2011
+SILVER WHISPER;11/2011;C;93,98;305;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+MSC MUSICA;03/2011;B;91,14;275;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+SILVER CLOUD;02/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Fevereiro 2014
+COSTA SERENA;03/2011;B;92,85;240;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+AMERA (PRINSENDAM);12/2014;B;96,21;185;Programa de Inspecao Navios de Cruzeiro 2014/2015 - Dezembro 2014
+COSTA MAGICA;03/2012;A;99,80;8;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+SEVEN SEAS MARINER;03/2011;D;73,28;875;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Marco 2011
+REGATTA;03/2013;B;96,36;180;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+MSC FANTASIA;11/2018;A;97,00;150;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Novembro 2018
+VISION OF THE SEAS;12/2010;C;86,24;450;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+AIDA AURA;10/2018;B;96,80;160;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Outubro 2018
+MARINA;12/2016;B;96,70;165;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Dezembro 2016
+HANSEATIC;03/2018;A;98,40;80;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Fevereiro 2018
+COSTA FASCINOSA;12/2017;A;98,00;100;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Dezembro 2017
+MAASDAM;01/2016;A;98,20;90;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+COSTA SERENA;12/2010;C;90,00;315;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+MSC ORCHESTRA;11/2013;B;96,53;170;Programa de Inspecao Navios de Cruzeiro 2013/2014 - novembro 2013
+MAGELLAN;01/2020;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Janeiro 2020
+MARCO POLO;01/2012;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+MSC MAGNIFICA;03/2013;A;97,40;130;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+MARINA;12/2019;A;98,60;70;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+MARCO POLO;01/2016;A;97,18;135;Programa de Inspecao Navios de Cruzeiro 2015/2016 - Janeiro 2016
+HANSEATIC;04/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Abril 2017
+MARCO POLO;01/2017;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Janeiro 2017
+CRYSTAL SYMPHONY;03/2012;A;98,82;60;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Marco 2012
+VEENDAM;02/2012;A;99,39;30;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+GRAND HOLIDAY;12/2011;D;89,44;535;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+THE WORLD;02/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Fevereiro 2018
+MAASDAM;02/2014;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Fevereiro 2014
+AUSTRAL;03/2013;B;94,58;270;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Marco 2013
+COLUMBUS 2;12/2013;C;88,09;354;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+MINERVA;02/2014;B;95,96;195;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Fevereiro 2014
+AIDA VITA;06/2011;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Abril 2011
+ASTOR;12/2019;A;97,50;125;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+MSC MUSICA;11/2019;A;98,00;100;Programa de Inspecao Navios de Cruzeiro 2019/2020 - Novembro 2019
+VISION OF THE SEAS;12/2011;D;90,72;470;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+SEVEN SEAS NAVIGATOR;04/2018;C;91,69;405;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Abril 2018
+PRINCESS DANAE;02/2011;A;98,81;40;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Fevereiro 2011
+ASTOR;02/2012;D;86,60;508;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+EUROPA 2;02/2020;A;97,29;135;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Fevereiro 2020
+AZAMARA JOURNEY;11/2011;B;95,92;160;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+EMPRESS (IMPERATRIZ);03/2014;A;97,07;145;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Marco 2014
+MSC OPERA;11/2011;B;94,74;265;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Novembro 2011
+SOVEREIGN (SOBERANO);12/2019;A;99,30;35;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+CELEBRITY ECLIPSE;02/2020;B;94,20;232;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Fevereiro 2020
+COSTA SERENA;12/2012;B;95,54;220;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Dezembro 2012
+CORAL PRINCESS;12/2019;B;96,40;175;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Dezembro 2019
+MSC ORCHESTRA;11/2016;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Novembro 2016
+SOVEREIGN (SOBERANO);01/2012;B;94,57;275;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Janeiro 2012
+REGATTA;02/2013;C;91,66;420;Programa de Inspecao Navios de Cruzeiro 2012/2013 - Fevereiro 2013
+INSIGNIA;12/2010;D;82,58;540;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Dezembro 2010
+SEA DREAM II;02/2012;B;95,37;220;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+GRAND MISTRAL;02/2012;C;91,91;410;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+VIKING SEA;01/2020;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Janeiro 2020
+AMERA (PRINSENDAM);12/2013;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+MARCO POLO;01/2014;A;99,60;20;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Janeiro 2014
+COSTA VITORIA;12/2011;A;97,99;100;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
+VIKING SEA;12/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Dezembro 2018
+BRAEMAR;02/2012;C;86,54;399;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+SILVER WHISPER;11/2018;B;96,03;190;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Novembro 2018
+LE CHAMPLAIN;11/2018;C;92,80;360;Programa de Inspecao Navios de Cruzeiro 2018/2019 -  Novembro 2018
+SEVEN SEAS MARINER;12/2013;B;94,55;270;Programa de Inspecao Navios de Cruzeiro 2013/2014 - Dezembro 2013
+AIDA VITA;10/2010;B;94,15;195;Programa de Inspecao Navios de Cruzeiro 2010/2011 - Outubro 2010
+ISLAND PRINCESS;02/2020;B;94,65;265;Programa de Inspecao Navios de Cruzeiro 2019/2020 -  Fevereiro 2020
+BRAEMAR;02/2018;A;100,00;0;Programa de Inspecao Navios de Cruzeiro 2017/2018 -  Fevereiro 2018
+MSC OPERA;02/2012;D;89,97;495;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Fevereiro 2012
+WORLD ODYSSEY;11/2016;A;99,05;27;Programa de Inspecao Navios de Cruzeiro 2016/2017 - Novembro 2016
+INSIGNIA;12/2011;B;96,59;170;Programa de Inspecao Navios de Cruzeiro 2011/2012 - Dezembro 2011
