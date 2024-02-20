@@ -18,7 +18,7 @@ Aos recrutadores, indico os seguintes projetos (os mais recentes e meus favorito
 
 [Perfil socioeconômico x notas dos candidatos do ENEM](https://github.com/lucasarauj0h/data-science/tree/main/analises/enem_socioeconomico) - Verifica-se fatores que podem determinar o desempenho dos candidatos
 
-[Case para estágio no Itaú](https://github.com/lucasarauj0h/data-science/tree/main/analises/case_itau) (Case realizando no inicio dos estudos de ML)
+[Case para estágio no Itaú](https://github.com/lucasarauj0h/case-itau) - Case de análise de dados com um pouco de machine learning (inicio dos estudos em ML)
 
 [Comportamento de ativos financeiros durante a pandemia](https://github.com/lucasarauj0h/data-science/tree/main/analises/ativos_durante_pandemia)
 
