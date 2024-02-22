@@ -10,11 +10,14 @@ Aos recrutadores, indico os seguintes projetos (os mais recentes e meus favorito
 
 * [Campeonato Brasileiro 2003-2023](https://github.com/lucasarauj0h/data-science/tree/main/analises/campeonato_brasileiro) - EDA
 * [Prevendo transações fraudulentas em cartão de crédito (Competição Kaggle)](https://github.com/lucasarauj0h/data-science/tree/main/analises/credit_fraud) - Machine Learning
+* [Performance olímpica dos países sede](https://github.com/lucasarauj0h/data-science/tree/main/analises/olympics_perfomances) - EDA com foco na visualização dos dados aplicando conceitos do livro "Storytelling with Data"
 * [Analisando dados do RH da IBM](https://github.com/lucasarauj0h/data-science/tree/main/sql/projeto-sql-rh) - SQL (MySQL)
 
 ## Exploratory Data Analysis (EDA) 
 
 [Campeonato Brasileiro 2003-2023](https://github.com/lucasarauj0h/data-science/tree/main/analises/campeonato_brasileiro) - Respondendo a mitos e superstições do futebol através da análise de dados.
+
+[Performance olímpica dos países sede](https://github.com/lucasarauj0h/data-science/tree/main/analises/olympics_perfomances) - Sediar a olímpiada melhora o desempenho da nação? (Análise com enfâse na visualização dos dados inspirada no livro "Storytelling with Data")
 
 [Perfil socioeconômico x notas dos candidatos do ENEM](https://github.com/lucasarauj0h/data-science/tree/main/analises/enem_socioeconomico) - Verifica-se fatores que podem determinar o desempenho dos candidatos
 
