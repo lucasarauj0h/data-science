@@ -1,7 +1,7 @@
 # data-science projects
 O objetivo desse repositório é armazenar projetos de data-science concluídos até o momento. 
 
-Alguns projetos ainda não estão devidamente documentados e apresentaveis, por hora esse processo está sendo realizado. Mas caso haja curiosidade os projetos em jupiter estão comentados.
+Alguns projetos ainda não estão devidamente documentados e apresentaveis, por hora esse processo está sendo realizado. Mas caso haja curiosidade os projetos em jupyter estão comentados.
 Também há projetos realizados com supervisão (cursos realizados) que se encontram em uma pasta separado, os mesmos não estão documentados, apenas comentados via código. 
 
 ## Recomendações
