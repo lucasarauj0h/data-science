@@ -7,7 +7,7 @@ Também há projetos realizados com supervisão (cursos realizados) que se encon
 
 ## Recomendações
 
-Aos recrutadores, indico os seguintes projetos (os mais recentes e meus favoritos)
+Aos recrutadores, indico os seguintes projetos (os mais recentes e meus favoritos).
 
 * [Campeonato Brasileiro 2003-2023](https://github.com/lucasarauj0h/data-science/tree/main/analises/campeonato_brasileiro) - EDA
 * [Prevendo transações fraudulentas em cartão de crédito (Competição Kaggle)](https://github.com/lucasarauj0h/data-science/tree/main/analises/credit_fraud) - Machine Learning
