@@ -1,57 +1,83 @@
-# data-science projects
+# Portfólio de Ciência de Dados
 
-O objetivo desse repositório é armazenar projetos em ciência de dados concluídos até o momento. 
+Projetos de análise de dados, machine learning, SQL e automação desenvolvidos para investigar problemas de negócio e questões sociais com Python.
 
-Alguns projetos ainda não estão devidamente documentados e apresentaveis, por hora esse processo está sendo realizado. Mas caso haja curiosidade os projetos em jupyter estão comentados.
-Também há projetos realizados com supervisão (cursos realizados) que se encontram em uma pasta separado, os mesmos não estão documentados, apenas comentados via código. 
+## Projetos em destaque
 
-## Recomendações
+| Projeto | Problema | Abordagem | Resultado ou conclusão principal |
+| --- | --- | --- | --- |
+| [Detecção de fraude em cartões](analises/credit_fraud/) | Identificar uma classe extremamente rara de transações fraudulentas | Random Forest, ADASYN, Cluster Centroids, GridSearchCV e Precision-Recall | No cenário documentado com Random Forest + ADASYN: 80,75% de precisão e 86,09% de recall |
+| [Campeonato Brasileiro 2003-2023](analises/campeonato_brasileiro/) | Testar mitos e padrões do futebol brasileiro | Análise exploratória, estatística descritiva e visualização | Vantagem do mandante confirmada; efeito da ausência de torcida foi limitado nos dados analisados |
+| [Performance olímpica dos países-sede](analises/olympics_perfomances/) | Investigar se sediar os Jogos está associado a mais medalhas | Engenharia de dados, mapas, visualização e testes estatísticos | Os dados sugerem vantagem dos anfitriões, com ressalvas sobre renda e investimento esportivo |
+| [RH da IBM com SQL](sql/projeto-sql-rh/) | Investigar fatores associados à saída de funcionários | Consultas analíticas em MySQL | Foram identificadas diferenças por departamento, salário, horas extras, idade e viagens |
 
-Aos recrutadores, indico os seguintes projetos (os mais recentes e meus favoritos).
+## Análises exploratórias
 
-* [Campeonato Brasileiro 2003-2023](https://github.com/lucasarauj0h/data-science/tree/main/analises/campeonato_brasileiro) - EDA
-* [Prevendo transações fraudulentas em cartão de crédito (Competição Kaggle)](https://github.com/lucasarauj0h/data-science/tree/main/analises/credit_fraud) - Machine Learning
-* [Performance olímpica dos países sede](https://github.com/lucasarauj0h/data-science/tree/main/analises/olympics_perfomances) - EDA com foco na visualização dos dados aplicando conceitos do livro "Storytelling with Data"
-* [Analisando dados do RH da IBM](https://github.com/lucasarauj0h/data-science/tree/main/sql/projeto-sql-rh) - SQL (MySQL)
+| Projeto | Pergunta central |
+| --- | --- |
+| [Campeonato Brasileiro](analises/campeonato_brasileiro/) | Os dados sustentam mitos conhecidos sobre torcida, clássicos e desempenho dos campeões? |
+| [Performance olímpica](analises/olympics_perfomances/) | Sediar uma Olimpíada está associado a melhor desempenho no quadro de medalhas? |
+| [ENEM e perfil socioeconômico](analises/enem_socioeconomico/) | Como renda, escolaridade dos pais e tipo de escola se relacionam com as notas? |
+| [Ativos durante a pandemia](analises/ativos_durante_pandemia/) | Como preços e volatilidade de ativos brasileiros se comportaram em 2020? |
+| [Acidentes fatais em São Paulo](analises/acidentes_fatais_sp/) | Quem são as vítimas e onde, quando e como os acidentes fatais acontecem? |
 
-## Exploratory Data Analysis (EDA) 
+## Machine learning
 
-[Campeonato Brasileiro 2003-2023](https://github.com/lucasarauj0h/data-science/tree/main/analises/campeonato_brasileiro) - Respondendo a mitos e superstições do futebol através da análise de dados.
-
-[Performance olímpica dos países sede](https://github.com/lucasarauj0h/data-science/tree/main/analises/olympics_perfomances) - Sediar a olímpiada melhora o desempenho da nação? (Análise com enfâse na visualização dos dados inspirada no livro "Storytelling with Data")
-
-[Perfil socioeconômico x notas dos candidatos do ENEM](https://github.com/lucasarauj0h/data-science/tree/main/analises/enem_socioeconomico) - Verifica-se fatores que podem determinar o desempenho dos candidatos
-
-[Case para estágio no Itaú](https://github.com/lucasarauj0h/case-itau) - Case de análise de dados com um pouco de machine learning (inicio dos estudos em ML)
-
-[Comportamento de ativos financeiros durante a pandemia](https://github.com/lucasarauj0h/data-science/tree/main/analises/ativos_durante_pandemia)
-
-[Acidentes de transito fatais em SP](https://github.com/lucasarauj0h/data-science/tree/main/analises/acidentes_fatais_sp)
-
-[Projetos de cursos](https://github.com/lucasarauj0h/data-science/tree/main/analises/projetos_de_cursos) - Análises realizadas durante formações em cursos de data-analysis com supervisão do professor (não documentados, apenas comentados em código).
-
-## Machine Learning 
-
-[Prevendo transações fraudulentas em cartão de crédito (Competição Kaggle)](https://github.com/lucasarauj0h/data-science/tree/main/analises/credit_fraud) - Entendendo o problema de negócio e propondo a melhor solução, além de explorar conhecimentos de Machine Learning para obter o melhor desempenho para o caso. 
-
-[Prevendo sobreviventes do desastre do Titanic (Competição Kaggle)](https://github.com/lucasarauj0h/titanic-previsao) - Estudando como melhorar a eficiência realizando diversas engenharia de atributos com os dados disponivesis
+| Projeto | Técnicas principais |
+| --- | --- |
+| [Detecção de fraude](analises/credit_fraud/) | Classificação desbalanceada, amostragem, ajuste de hiperparâmetros e AUC-PR |
+| [Titanic](https://github.com/lucasarauj0h/titanic-previsao) | Engenharia de atributos, comparação de modelos e GridSearchCV |
 
 ## SQL
 
-[Analisando dados do RH da IBM](https://github.com/lucasarauj0h/data-science/tree/main/sql/projeto-sql-rh) - Compreendendo fatores que levam os funcionários a saírem da empresa e propor melhoras no ambiente organizacional e a retenção de talentos.
-
-[Projetos de cursos SQL](https://github.com/lucasarauj0h/data-science/tree/main/sql/sql-aulas) - Estudos de casos realizados durante formações em cursos de linguagem SQL
+| Projeto | Conteúdo |
+| --- | --- |
+| [Análise de RH da IBM](sql/projeto-sql-rh/) | Consultas MySQL sobre attrition, remuneração, horas extras e perfil dos funcionários |
+| [Estudos de SQL](sql/sql-aulas/) | Exercícios e casos desenvolvidos durante formações em SQL |
 
 ## Automações
 
-[Assistente Virtual](https://github.com/lucasarauj0h/data-science/tree/main/automacoes/AssistenteVirtual) - Criação de uma assistente virtual (não inteligente) que reconhece comandos de voz como - Desligar - Abrir Google - Abrir meu currículo - Pesquisar últimas noticias - Informar cotação do Dolar, Euro e BitCoin - Informar hora atual e responde também com voz em português. 
+| Projeto | O que faz |
+| --- | --- |
+| [Assistente virtual](automacoes/AssistenteVirtual/) | Reconhece comandos de voz e executa tarefas locais |
+| [Envio de e-mails](automacoes/envio-emails/) | Automatiza o envio de mensagens a partir de dados estruturados |
+| [Leitor de imagens](automacoes/leitor-de-imagens/) | Extrai texto de imagens por OCR |
+| [Notícias](automacoes/noticias/) | Coleta notícias, abre a matéria no navegador e gera um resumo |
+| [Busca por vagas](automacoes/WebScraping_API/) | Coleta vagas de análise de dados e organiza os resultados em planilha |
 
-[Envio de e-mails](https://github.com/lucasarauj0h/data-science/tree/main/automacoes/envio-emails) - Envio automático de e-mails que pode ser integrado a uma planilha de e-mails, realizando o envio automaticamente. Na configuração atual envia um e-mail meu a mim mesmo com meu currículo. 
+## Organização do repositório
 
-[Leitor de imagens](https://github.com/lucasarauj0h/data-science/tree/main/automacoes/leitor-de-imagens) - Extrai textos de imagens. Quando combinado com outros mecânismos (como de encontrar palavras-chave) pode nos poupar tempo procurando pelas palavras em imagens (onde não é possível usar ctrl+f) tornando nosso tempo mais eficiênte, produtivo e direto. 
-* Exemplo de aplicação: Informe via PDF de uma empresa onde contenha o demonstrativo financeiro e futuras projeções.
+```text
+data-science/
+├── analises/    # EDA, visualização e machine learning
+├── sql/         # consultas e estudos de caso em bancos relacionais
+└── automacoes/  # scripts para tarefas, coleta e integração
+```
 
-[Notícias](https://github.com/lucasarauj0h/data-science/tree/main/automacoes/noticias) - O programa armazena notícias de 4 web-sites atravéz do bs4 e os armazena. Quando solicitado abre a notícia no seu navegador e cria um breve resumo do mesmo. 
+Cada projeto possui seu próprio notebook, script ou README. Os projetos em destaque contêm contexto do problema, metodologia e conclusões.
 
-[Busca por vagas de emprego](https://github.com/lucasarauj0h/data-science/tree/main/automacoes/WebScraping_API) - Encontra vagas de Analista de Dados e os armazena em uma planilha.
+## Tecnologias aplicadas
+
+- Python, pandas, NumPy e Jupyter.
+- Matplotlib, Seaborn e visualização geoespacial.
+- scikit-learn e imbalanced-learn.
+- MySQL e SQL analítico.
+- Beautiful Soup, Selenium, OCR e automação de tarefas.
+
+## Reprodutibilidade e limitações
+
+Os projetos foram produzidos em diferentes etapas de aprendizado e podem exigir ambientes distintos. Antes de executar um notebook:
+
+1. Consulte o README do projeto escolhido.
+2. Verifique a fonte e a licença dos dados.
+3. Ajuste os caminhos locais dos arquivos.
+4. Instale as bibliotecas importadas pelo notebook.
+
+Resultados de análises observacionais representam associações encontradas nos dados e não devem ser interpretados automaticamente como relações causais.
+
+No projeto de fraude, a moeda e qualquer transformação aplicada à variável `Amount` precisam ser confirmadas antes de associar limites numéricos a valores em reais.
+
+## Status
+
+Portfólio em evolução. A documentação é priorizada nos projetos em destaque, enquanto exercícios de cursos permanecem como registro de aprendizado.
 
